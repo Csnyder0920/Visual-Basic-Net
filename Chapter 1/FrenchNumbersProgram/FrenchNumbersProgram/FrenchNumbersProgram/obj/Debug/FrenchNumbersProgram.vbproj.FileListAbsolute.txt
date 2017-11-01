@@ -1,0 +1,10 @@
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\bin\Debug\FrenchNumbersProgram.exe.config
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\bin\Debug\FrenchNumbersProgram.exe
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\bin\Debug\FrenchNumbersProgram.pdb
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\bin\Debug\FrenchNumbersProgram.xml
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.Form1.resources
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.Resources.resources
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.vbproj.GenerateResource.Cache
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.exe
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.xml
+C:\Users\cs137672\AppData\Local\Temporary Projects\FrenchNumbersProgram\obj\Debug\FrenchNumbersProgram.pdb
