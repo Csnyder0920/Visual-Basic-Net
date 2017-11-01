@@ -1,0 +1,10 @@
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\bin\Debug\Kiloconverter Program.exe.config
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter_Program.Form1.resources
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter_Program.Resources.resources
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter Program.vbproj.GenerateResource.Cache
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\bin\Debug\Kiloconverter Program.exe
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\bin\Debug\Kiloconverter Program.pdb
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\bin\Debug\Kiloconverter Program.xml
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter Program.exe
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter Program.xml
+C:\Users\cs137672\AppData\Local\Temporary Projects\Kiloconverter Program\obj\Debug\Kiloconverter Program.pdb
