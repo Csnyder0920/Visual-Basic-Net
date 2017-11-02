@@ -32,10 +32,10 @@ Partial Class Form1
         'lblName
         '
         Me.lblName.AutoSize = True
-        Me.lblName.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblName.Location = New System.Drawing.Point(70, 31)
+        Me.lblName.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblName.Location = New System.Drawing.Point(89, 42)
         Me.lblName.Name = "lblName"
-        Me.lblName.Size = New System.Drawing.Size(136, 24)
+        Me.lblName.Size = New System.Drawing.Size(103, 19)
         Me.lblName.TabIndex = 0
         Me.lblName.Text = "William Wolfe" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         Me.lblName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -62,10 +62,10 @@ Partial Class Form1
         'lblStreet
         '
         Me.lblStreet.AutoSize = True
-        Me.lblStreet.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblStreet.Location = New System.Drawing.Point(35, 65)
+        Me.lblStreet.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblStreet.Location = New System.Drawing.Point(54, 76)
         Me.lblStreet.Name = "lblStreet"
-        Me.lblStreet.Size = New System.Drawing.Size(214, 24)
+        Me.lblStreet.Size = New System.Drawing.Size(160, 19)
         Me.lblStreet.TabIndex = 3
         Me.lblStreet.Text = "888 South Main Street"
         Me.lblStreet.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -74,10 +74,10 @@ Partial Class Form1
         'lblCityStateZip
         '
         Me.lblCityStateZip.AutoSize = True
-        Me.lblCityStateZip.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblCityStateZip.Location = New System.Drawing.Point(35, 101)
+        Me.lblCityStateZip.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblCityStateZip.Location = New System.Drawing.Point(54, 112)
         Me.lblCityStateZip.Name = "lblCityStateZip"
-        Me.lblCityStateZip.Size = New System.Drawing.Size(223, 24)
+        Me.lblCityStateZip.Size = New System.Drawing.Size(165, 19)
         Me.lblCityStateZip.TabIndex = 4
         Me.lblCityStateZip.Text = "Waynesville, NC 28786"
         Me.lblCityStateZip.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
