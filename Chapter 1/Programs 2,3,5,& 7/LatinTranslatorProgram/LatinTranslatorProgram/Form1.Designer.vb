@@ -113,7 +113,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblMiddle)
         Me.Controls.Add(Me.lblLeft)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Latin Translator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
