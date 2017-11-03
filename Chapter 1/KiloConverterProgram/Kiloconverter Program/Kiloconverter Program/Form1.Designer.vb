@@ -98,7 +98,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnInches)
         Me.Controls.Add(Me.lblMessage)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Kilo Converter"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
