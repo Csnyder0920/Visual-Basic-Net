@@ -8,3 +8,6 @@ C:\Users\cs137672\AppData\Local\Temporary Projects\MathTutorProgram\obj\Debug\Ma
 C:\Users\cs137672\AppData\Local\Temporary Projects\MathTutorProgram\obj\Debug\MathTutorProgram.exe
 C:\Users\cs137672\AppData\Local\Temporary Projects\MathTutorProgram\obj\Debug\MathTutorProgram.xml
 C:\Users\cs137672\AppData\Local\Temporary Projects\MathTutorProgram\obj\Debug\MathTutorProgram.pdb
+C:\Users\cs137672\Documents\GitHub\Visual-Basic-Net\Chapter 1\Programs 2,3,5,& 7\MathProgram\MathTutorProgram\MathTutorProgram\bin\Debug\MathTutorProgram.exe.config
+C:\Users\cs137672\Documents\GitHub\Visual-Basic-Net\Chapter 1\Programs 2,3,5,& 7\MathProgram\MathTutorProgram\MathTutorProgram\obj\Debug\MathTutorProgram.xml
+C:\Users\cs137672\Documents\GitHub\Visual-Basic-Net\Chapter 1\Programs 2,3,5,& 7\MathProgram\MathTutorProgram\MathTutorProgram\obj\Debug\MathTutorProgram.pdb
